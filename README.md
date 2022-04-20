@@ -2,7 +2,7 @@
 
 Mars Web Scraping project
 
-The purpose of this project was to pull information from 3 different websites about mars using the html parsers BeatifulSoup and Browser. Then a flask application was created with routes to be able to route the information to a new html webpage to display the information pulled from the 3 different sites. 
+Created a web page to show information about mars from 3 different sources. Extracted Mars  content from three different websites utilizing HTML Parsers Browser and BeautifulSoup. Then created a flask application to route to content a new HTML webpage to display all the aggregated Mars information.  
 
 •	Role: Sole author
 
